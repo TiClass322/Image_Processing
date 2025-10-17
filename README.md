@@ -78,7 +78,6 @@
 ├── Practice_3/
 │   ├── DE_IP_2024_Task_3.ipynb       # Jupyter Notebook с заданием 3
 │   ├── solution.ipynb                # Jupyter Notebook с решением
-│   ├── SOL.py                        # Python-скрипт с решением
 │   ├── histogram.py                  # Скрипт для построения гистограммы
 │   └── sar_3.jpg                     # Изображение для анализа
 └── README.md                             # Этот файл
